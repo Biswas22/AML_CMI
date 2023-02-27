@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/913260f73a9c458c9665324a3a41280d/artifacts
+end_time: 1677531765787
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: 913260f73a9c458c9665324a3a41280d
+run_name: marvelous-tern-3
+run_uuid: 913260f73a9c458c9665324a3a41280d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531765506
+status: 3
+tags: []
+user_id: PC

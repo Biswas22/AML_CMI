@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/aa0be858ba4e4e3ba64662832abd8d3f/artifacts
+end_time: 1677531766743
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: aa0be858ba4e4e3ba64662832abd8d3f
+run_name: dazzling-conch-163
+run_uuid: aa0be858ba4e4e3ba64662832abd8d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531766260
+status: 3
+tags: []
+user_id: PC

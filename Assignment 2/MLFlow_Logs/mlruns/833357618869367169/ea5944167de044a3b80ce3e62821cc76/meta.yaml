@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/ea5944167de044a3b80ce3e62821cc76/artifacts
+end_time: 1677531764302
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: ea5944167de044a3b80ce3e62821cc76
+run_name: resilient-lark-456
+run_uuid: ea5944167de044a3b80ce3e62821cc76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531764159
+status: 3
+tags: []
+user_id: PC

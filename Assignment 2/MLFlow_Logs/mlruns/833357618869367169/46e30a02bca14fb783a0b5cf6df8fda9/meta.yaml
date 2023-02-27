@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/46e30a02bca14fb783a0b5cf6df8fda9/artifacts
+end_time: 1677531764103
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: 46e30a02bca14fb783a0b5cf6df8fda9
+run_name: bustling-hog-158
+run_uuid: 46e30a02bca14fb783a0b5cf6df8fda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531763890
+status: 3
+tags: []
+user_id: PC

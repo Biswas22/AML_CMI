@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/6c5d12786d724e96bcead4618594f97e/artifacts
+end_time: 1677531767553
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: 6c5d12786d724e96bcead4618594f97e
+run_name: powerful-sponge-22
+run_uuid: 6c5d12786d724e96bcead4618594f97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531767428
+status: 3
+tags: []
+user_id: PC

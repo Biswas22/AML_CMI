@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/7c495542301e49908da98a1427005423/artifacts
+end_time: 1677531763118
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: 7c495542301e49908da98a1427005423
+run_name: stately-carp-455
+run_uuid: 7c495542301e49908da98a1427005423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531762988
+status: 3
+tags: []
+user_id: PC

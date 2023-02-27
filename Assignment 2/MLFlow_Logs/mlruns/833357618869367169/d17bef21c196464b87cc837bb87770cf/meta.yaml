@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/d17bef21c196464b87cc837bb87770cf/artifacts
+end_time: 1677531767686
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: d17bef21c196464b87cc837bb87770cf
+run_name: adventurous-wasp-899
+run_uuid: d17bef21c196464b87cc837bb87770cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531767579
+status: 3
+tags: []
+user_id: PC

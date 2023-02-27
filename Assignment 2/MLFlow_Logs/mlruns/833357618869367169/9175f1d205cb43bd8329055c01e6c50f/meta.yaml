@@ -1,0 +1,15 @@
+artifact_uri: MLFlow_Logs\mlruns/833357618869367169/9175f1d205cb43bd8329055c01e6c50f/artifacts
+end_time: 1677531766225
+entry_point_name: ''
+experiment_id: '833357618869367169'
+lifecycle_stage: active
+run_id: 9175f1d205cb43bd8329055c01e6c50f
+run_name: nimble-wolf-308
+run_uuid: 9175f1d205cb43bd8329055c01e6c50f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677531765807
+status: 3
+tags: []
+user_id: PC
