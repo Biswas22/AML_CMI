@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PC/Desktop/Github_Repos/AML_CMI/AML_CMI/Assignment%202/mlruns/0/271b39133f6c4c6f96312ae4a6196ff5/artifacts
+end_time: 1677563677056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 271b39133f6c4c6f96312ae4a6196ff5
+run_name: 'Model : Multinomial Naive Bayes, Alpha : 0.55'
+run_uuid: 271b39133f6c4c6f96312ae4a6196ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677563643314
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PC/Desktop/Github_Repos/AML_CMI/AML_CMI/Assignment%202/mlruns/0/d3af8767a72d4311a5a6d5d2b791b56c/artifacts
+end_time: 1677564326862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3af8767a72d4311a5a6d5d2b791b56c
+run_name: 'Model : Support Vector Classifier, C : 50'
+run_uuid: d3af8767a72d4311a5a6d5d2b791b56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677564291662
+status: 3
+tags: []
+user_id: PC

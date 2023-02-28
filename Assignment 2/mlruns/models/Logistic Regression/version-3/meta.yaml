@@ -1,0 +1,12 @@
+creation_timestamp: 1677563980508
+current_stage: None
+description: null
+last_updated_timestamp: 1677563980508
+name: Logistic Regression
+run_id: b17842c24f6846e79926aaec57004544
+run_link: null
+source: file:///c:/Users/PC/Desktop/Github_Repos/AML_CMI/AML_CMI/Assignment%202/mlruns/0/b17842c24f6846e79926aaec57004544/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 3

@@ -1,0 +1,12 @@
+creation_timestamp: 1677564133329
+current_stage: None
+description: null
+last_updated_timestamp: 1677564133329
+name: Support Vector Classifier
+run_id: 979ba2c2a9b04919a004cacc136ba927
+run_link: null
+source: file:///c:/Users/PC/Desktop/Github_Repos/AML_CMI/AML_CMI/Assignment%202/mlruns/0/979ba2c2a9b04919a004cacc136ba927/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

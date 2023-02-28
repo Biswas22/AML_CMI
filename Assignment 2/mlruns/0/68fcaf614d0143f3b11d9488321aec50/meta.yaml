@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PC/Desktop/Github_Repos/AML_CMI/AML_CMI/Assignment%202/mlruns/0/68fcaf614d0143f3b11d9488321aec50/artifacts
+end_time: 1677563952687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68fcaf614d0143f3b11d9488321aec50
+run_name: 'Model : Logistic Regression, C : 0.5'
+run_uuid: 68fcaf614d0143f3b11d9488321aec50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677563911609
+status: 3
+tags: []
+user_id: PC
