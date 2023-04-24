@@ -1,0 +1,3 @@
+Link to chicken duck classification with CNN: https://www.kaggle.com/dasoham/chicken-duck-classification-with-cnn
+
+Link to tweet text sentiment analysis with BERT: https://www.kaggle.com/code/dasoham/tweet-text-sentiment-analysis
